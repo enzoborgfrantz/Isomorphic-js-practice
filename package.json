@@ -1,0 +1,28 @@
+{
+  "name": "isomorphic-js-practice",
+  "version": "1.0.0",
+  "description": "Project for learning isomorphic JS",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "\"echo \\\"no tests specified \\\" && exit 1\""
+  },
+  "keywords": [
+    "isomorphic",
+    "js",
+    "seo"
+  ],
+  "author": "enzo borg frantz",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.1.1",
+    "nunjucks": "^3.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-nodemon": "^2.2.1",
+    "run-sequence": "^1.2.2"
+  }
+}
